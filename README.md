@@ -1,0 +1,187 @@
+# droneSOL
+<!DOCTYPE html>
+<html lang="ja">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="奈良女子大学,Nara Women's University,理学部,環境科学,化学生物環境学科,サイエンスオープンラボ,SOL,ドローン">
+
+	<head>
+		<title>drone-2025SOLes</title>	
+	<style>
+h1 {
+  position: relative;
+  color: #158b2b;
+  font-size: 40px;
+  padding: 10px 0;
+  text-align: center;
+  margin: 1.5em 0;
+}
+h1:before {
+  content: "";
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  width: 450px;
+  height: 150px;
+  border-radius: 50%;
+  border: 8px solid #a6ddb0;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+.heading-41 {
+    display: flex;
+    align-items: center;
+    padding: .5em .7em;
+    background-color: #f2f2f2;
+    color: #b082a6;
+}
+
+.heading-41::before {
+    display: inline-block;
+    width: 5px;
+    height: 1.5em;
+    margin-right: .5em;
+    background-color: #b082a6;
+    content: '';
+}
+.heading-42 {
+    display: flex;
+    align-items: center;
+    padding: .5em .7em;
+    background-color: #f2f2f2;
+    color: #196bb8;
+}
+
+.heading-42::before {
+    display: inline-block;
+    width: 5px;
+    height: 1.5em;
+    margin-right: .5em;
+    background-color: #196bb8;
+    content: '';
+}
+.heading-43 {
+    display: flex;
+    align-items: center;
+    padding: .5em .7em;
+    background-color: #f2f2f2;
+    color: #cd853f;
+}
+
+.heading-43::before {
+    display: inline-block;
+    width: 5px;
+    height: 1.5em;
+    margin-right: .5em;
+    background-color: #cd853f;
+    content: '';
+}
+.heading-44 {
+    display: flex;
+    align-items: center;
+    padding: .5em .7em;
+    background-color: #f2f2f2;
+    color: #d7d8f4;
+}
+
+.heading-44::before {
+    display: inline-block;
+    width: 5px;
+    height: 1.5em;
+    margin-right: .5em;
+    background-color: #d7d8f4;
+    content: '';
+}
+	</style>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" defer type="text/javascript"></script>
+
+<body style="background-color:#fffff5;">
+	</head>
+	<div style="text-align: center;">
+	<div class="#h1">
+		<h1>ドローンで覗く奈良女子大学の四季</h1>
+	</div>
+		<h3>奈良女子大学構内は自然が豊かであり、季節によってさまざまな姿を見せます。その四季の変化をドローンで撮影しました。</h3>
+	</div>
+<br>
+<h2 class="heading-41">春</h2>
+</div>
+<h4>２０２５年６月４日撮影。青空が垣間見える中、赤い木の実や鹿の親子が撮影できました。</h4>
+
+<a href="spring-kinenkan.jpg" data-lightbox="group"><img src="spring-kinenkan.jpg" alt="" width="300" height="200"></a>
+<a href="spring-azumaya.jpg" data-lightbox="group"><img src="spring-azumaya.jpg" alt="" width="300" height="200"></a>
+<a href="spring-biome.jpg" data-lightbox="group"><img src="spring-biome.jpg" alt="" width="300" height="200"></a>
+<a href="spring-deer.jpg" data-lightbox="group"><img src="spring-deer.jpg" alt="" width="300" height="200"></a>
+<br>
+<a><font color="#696969">※画像をクリックすると拡大表示されます</font></a>
+
+
+<br><br><br><br>
+
+<h2 class="heading-42">夏</h2>
+<h4>２０２５年７月１６日撮影。この日はあいにくの曇り空でしたが、青々と茂る植物が撮影できました。暑さのためか、鹿は見つけられませんでした。</h4>
+
+<a href="summer-kinenkan.jpg" data-lightbox="group"><img src="summer-kinenkan.jpg" alt="" width="300" height="200"></a>
+<a href="summer-azumaya.jpg" data-lightbox="group"><img src="summer-azumaya.jpg" alt="" width="300" height="200"></a>
+<a href="summer-biome.jpg" data-lightbox="group"><img src="summer-biome.jpg" alt="" width="300" height="200"></a>
+<br>
+<a><font color="#696969">※画像をクリックすると拡大表示されます</font></a>
+
+
+<br><br><br><br>
+
+<h2 class="heading-43">秋</h2>
+<h4>coming soon...</h4>
+
+<br><br><br><br>
+
+<h2 class="heading-44">冬</h2>
+<h4>coming soon...</h4>
+
+<br><br><br><br><br>
+
+<div style="border: #6b8e23 dashed 2px; font-size: 100%; padding: 15px;">
+<div style="text-align: center;">
+<a>奈良女子大学の四季の様子はいかがでしたか？</a>
+<br>
+<a>これらの写真からもわかるように、ドローンカメラを使用することで高い場所や水域の上からの撮影など、通常よりも広範囲での撮影が可能となります。</a>
+<br>
+<a>このようにして、人の足では立ち入れないような場所での植生調査などの研究活動においてドローンが用いられているのです。</a>
+<br>
+<a>今回使用したドローンはトイドローンと呼ばれる比較的小さなものになります。タブレット端末などにインストールした専用のアプリで操縦・撮影しました。</a>
+</div>
+<br><br><br><br>
+
+<div style="position:absolute; top:1800px; left:30px"> 
+<img src="撮影３.jpg" width="200" height="200">
+</div>
+<div style="position:absolute; top:1800px; left:250px"> 
+<img src="撮影４.jpg" width="200" height="200">
+</div>
+<br>
+<div style="position:absolute; top:2020px; left:30px"> 
+<img src="撮影２.jpg" width="200" height="200">
+</div>
+<div style="position:absolute; top:2020px; left:250px"> 
+<img src="撮影５.jpg" width="200" height="200">
+</div>
+<div style="position:absolute; top:2240px; left:30px"> 
+<a>↑撮影の様子</a>
+</div>
+<br><br>
+
+<div style="position:absolute; top:1800px; left:750px"> 
+<img src=".jpg">
+</div>
+<div style="position:absolute; top:2240px; left:800px"> 
+<a>↑使用したドローン本体</a>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+
+	</body>
+</html>
